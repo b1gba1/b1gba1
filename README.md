@@ -3,9 +3,9 @@
 
 ### Hi I'm gh0stbadb0y ! :-) 👋
 
-- 🔭 I’m currently working on java web development. 
+- 🔭 Working on java web development. 
 
-- 🌱 I’m currently learning cyber security.
+- 🌱 Learning cyber security.
 
 <!--
 **gh0stbadb0y/gh0stbadb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
