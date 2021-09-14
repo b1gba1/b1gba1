@@ -4,8 +4,8 @@
 ### Hi I'm gh0stbadb0y ! :-) 👋
 
 - 🔭 Working on java web development. 
-
 - 🌱 Learning cyber security.
+- 🤔 Breaking the limits of the circle .
 
 <!--
 **gh0stbadb0y/gh0stbadb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
