@@ -3,7 +3,7 @@
 
 ### Hi I'm gh0stbadb0y ! :-) 👋
 
-- 🔭 Working on java web development. 
+- 🔭 Working on java development. 
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
 
