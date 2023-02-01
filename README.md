@@ -6,24 +6,13 @@
 - 🔭 Working on java development. 
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
+- 📫 How to reach me: gh0stbadb0y@aliyun.com
 
 ### Tips! 😄
 
-我不能保证写的每个地方都是对的，但是至少能保证每一句话、每一行代码都经过了认真的推敲、仔细的斟酌。每一篇文章的背后，希望都能看到自己对于技术、对于生活的态度。
+我不能保证写的每个地方都是对的，但是至少能保证每一句话、每一行代码都经过了认真的推敲、仔细的斟酌。每一篇文章的背后，希望都能看到自己对于技术、对于生活的态度。 借此，也希望能有机会同您进行交流，望不吝赐教！ 
 
-I can't guarantee that every place I write is correct, but at least I can guarantee  that every sentence and line of code has been carefully considered. Behind every article, I hope to see my attitude towards technology and life.
+```text
+I can't guarantee that every place I write is correct, but at least I can guarantee that every sentence and line of code has been carefully considered and carefully considered. Behind every article, I hope to see my attitude towards technology and life. In this way, I also hope to have the opportunity to communicate with you, and I hope you will enlighten me!
+```
 
-<!--
-**gh0stbadb0y/gh0stbadb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
