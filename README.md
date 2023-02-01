@@ -7,6 +7,9 @@
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
 
+### Tips
+I can't guarantee that every place I write is correct, but at least I can guarantee  that every sentence and line of code has been carefully considered. Behind every article, I hope to see my attitude towards technology and life.
+
 <!--
 **gh0stbadb0y/gh0stbadb0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
