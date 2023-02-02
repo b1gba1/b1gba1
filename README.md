@@ -6,7 +6,7 @@
 - 🔭 Working on java development. 
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
-- 📫 How to reach me: gh0stbadb0y@aliyun.com
+- 📫 How to reach me: j0hn.0ooops@gmail.com
 
 ### Tips! 😄
 
