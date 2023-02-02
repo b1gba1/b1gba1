@@ -10,9 +10,9 @@
 
 ### Tips! 😄
 
-本是后山人，偶做前堂客。醉舞经阁半卷书，坐井说天阔。
-大志戏功名，海斗量福祸。论到囊中羞涩时，怒指乾坤错。
---源自《天道-自嘲》
+> 本是后山人，偶做前堂客。醉舞经阁半卷书，坐井说天阔。
+> 大志戏功名，海斗量福祸。论到囊中羞涩时，怒指乾坤错。
+> --源自《天道-自嘲》
 
 I can't guarantee that every place I write is correct, but at least I can guarantee that every sentence and line of code has been carefully considered and carefully considered. Behind every article, I hope to see my attitude towards technology and life.
 
