@@ -7,8 +7,13 @@
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
 - 📫 How to reach me: j0hn.0ooops@gmail.com
-- 🍻 CSDN-> https://blog.csdn.net/gh0stbadb0y
-- ✍️ JueJin-> https://juejin.cn/user/871251330475735
+
+<div align="right">
+  <a href="https://blog.csdn.net/gh0stbadb0y"><img src="https://img.shields.io/badge/CSDN-%E7%8E%A9%E5%A4%A7%E5%A4%A7-yellow" /></a>&emsp;
+  <a href="https://juejin.cn/user/871251330475735"><img src="https://img.shields.io/badge/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91-%E7%8E%A9%E5%A4%A7%E5%A4%A7-orange" /></a>&emsp;
+  <a href="https://leetcode.cn/u/ghostbadboy/"><img src="https://img.shields.io/badge/LeeCode-%E7%8E%A9%E5%A4%A7%E5%A4%A7-blue" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/gh0stbadb0y"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%8E%A9%E5%A4%A7%E5%A4%A7-lightgrey" /></a>&emsp;
+</div>
 
 ### ops ! 😄
 
