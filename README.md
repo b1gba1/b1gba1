@@ -7,6 +7,8 @@
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
 - 📫 How to reach me: j0hn.0ooops@gmail.com
+- 🍻 CSDN-> https://blog.csdn.net/gh0stbadb0y
+- ✍️ JueJin-> https://juejin.cn/user/871251330475735
 
 ### ops ! 😄
 
