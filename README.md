@@ -10,9 +10,9 @@
 
 <div align="right">
   <a href="https://blog.csdn.net/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E7%8E%A9%E5%A4%A7%E5%A4%A7-yellow" /></a>&emsp;
-  <a href="https://juejin.cn/user/871251330475735" target="_blank"><img src="https://img.shields.io/badge/%E7%A8%80%E5%9C%9F%E6%8E%98%E9%87%91-%E5%B0%8F%E5%88%98%E7%BC%96%E7%A8%8B-brightgreen" /></a>&emsp;
-  <a href="https://leetcode.cn/u/ghostbadboy/" target="_blank"><img src="https://img.shields.io/badge/LeeCode-%E5%B0%8F%E5%88%98%E7%BC%96%E7%A8%8B-orange" /></a>&emsp;
-  <a href="https://www.zhihu.com/people/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E7%8E%A9%E5%A4%A7%E5%A4%A7-lightgrey" /></a>&emsp;
+  <a href="https://juejin.cn/user/871251330475735" target="_blank"><img src="https://img.shields.io/badge/掘金-小刘学编程-brightgreen" /></a>&emsp;
+  <a href="https://leetcode.cn/u/ghostbadboy/" target="_blank"><img src="https://img.shields.io/badge/LeeCode-小刘学编程-orange" /></a>&emsp;
+  <a href="https://www.zhihu.com/people/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/知乎-小刘学编程-lightgrey" /></a>&emsp;
 </div>
 
 ### ops ! 😄
