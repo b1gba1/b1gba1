@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoliucoding&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoliucoding&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />-->
 
 
 ### Hi I'm xiaoliu ! :-) 👋
@@ -8,7 +8,7 @@
 - 🤔 Breaking the limits of the circle .
 - 📫 How to reach me: helloworld.xiaoliu@gmail.com
 
-<div align="right">
+<div align="left">
   <a href="https://blog.csdn.net/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E7%8E%A9%E5%A4%A7%E5%A4%A7-yellow" /></a>&emsp;
   <a href="https://juejin.cn/user/871251330475735" target="_blank"><img src="https://img.shields.io/badge/掘金-小刘学编程-brightgreen" /></a>&emsp;
   <a href="https://leetcode.cn/u/ghostbadboy/" target="_blank"><img src="https://img.shields.io/badge/LeeCode-小刘学编程-orange" /></a>&emsp;
