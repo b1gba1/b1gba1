@@ -9,7 +9,7 @@
 - 📫 How to reach me: helloworld.xiaoliu@gmail.com
 
 <div align="left">
-  <a href="https://blog.csdn.net/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/CSDN-%E7%8E%A9%E5%A4%A7%E5%A4%A7-yellow" /></a>&emsp;
+  <a href="https://blog.csdn.net/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/CSDN-小刘学编程-yellow" /></a>&emsp;
   <a href="https://juejin.cn/user/871251330475735" target="_blank"><img src="https://img.shields.io/badge/掘金-小刘学编程-brightgreen" /></a>&emsp;
   <a href="https://leetcode.cn/u/ghostbadboy/" target="_blank"><img src="https://img.shields.io/badge/LeeCode-小刘学编程-orange" /></a>&emsp;
   <a href="https://www.zhihu.com/people/gh0stbadb0y" target="_blank"><img src="https://img.shields.io/badge/知乎-小刘学编程-lightgrey" /></a>&emsp;
