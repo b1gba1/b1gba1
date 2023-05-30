@@ -6,7 +6,7 @@
 - 🔭 Working on java development. 
 - 🌱 Learning cyber security.
 - 🤔 Breaking the limits of the circle .
-- 📫 How to reach me: helloworld.xiaoliu@gmail.com
+- 📫 How to reach me: helloliufan2016@126.com
 
 <!--
 <div align="left">
